@@ -1,4 +1,5 @@
-Created specifically named groups for a Clobba deployment. This scripts was to report on groups members for licence reconciliation.
+Created specifically named groups for a Clobba deployment. This script was to report on groups members for licence reconciliation.
+Change the prefix and suffix filters as needed.
 
 # Export-ClobbaGroupMembers
 .SYNOPSIS
